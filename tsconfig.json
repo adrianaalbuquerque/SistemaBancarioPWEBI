@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "ES2016",
+        "outDir": "./banco-node-7-armazenamento-contas-poupanca-contabonificada/app/js",
+        "noEmitOnError": true,
+        "noImplicitAny": true
+    },
+
+    "include": [
+        "./banco-node-7-armazenamento-contas-poupanca-contabonificada/app/ts/**/*"
+    ]
+}
